@@ -5,7 +5,7 @@ public class Fighter {
     final String name = "Airplanes";
 
     static {
-        a = 10;
+        a = 5;
         b = 9;
     }
 
